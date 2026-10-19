@@ -1,6 +1,6 @@
 # Pricing American Options through the Poisson Equation
 
-Code for my BSc project at the Athens University of Economics and Business (2024), *“Εφαρμογή της εξίσωσης Poisson στην τιμολόγηση αμερικανικών παραγώγων”* (Applying the Poisson equation to the pricing of American derivatives). The full write-up, in Greek, is in [`docs/thesis_el.pdf`](docs/thesis_el.pdf).
+Code for my BSc project at the Athens University of Economics and Business (2024), *"Applying the Poisson equation to the pricing of American derivatives"*. The full write-up, in Greek, if you want to access it feel free to contact me. 
 
 The idea of the project is that pricing an American option can be recast as a problem with the same structure as the Poisson equation. Once it is in that form, the numerical tools developed for Poisson apply directly: finite differences to discretise it and Successive Over-Relaxation (SOR) to solve the resulting linear systems.
 
