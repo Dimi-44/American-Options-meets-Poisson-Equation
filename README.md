@@ -1,4 +1,3 @@
-# American-Options-meets-Poisson-Equation
 # Pricing American Options through the Poisson Equation
 
 Code for my BSc project at the Athens University of Economics and Business (2024), *“Εφαρμογή της εξίσωσης Poisson στην τιμολόγηση αμερικανικών παραγώγων”* (Applying the Poisson equation to the pricing of American derivatives). The full write-up, in Greek, is in [`docs/thesis_el.pdf`](docs/thesis_el.pdf).
